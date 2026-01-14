@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Radek Konrád
-**aka ConradZn**
+### Hi there 👋  I'm Radek Konrád **aka ConradZn**
 
 I am a tech enthusiast passionate about hardware tinkering, custom OS modifications, and creative audio production.
 
