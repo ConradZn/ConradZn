@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋 I'm Radek Konrád
+**aka ConradZn**
 
-<!--
-**ConradZn/ConradZn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a tech enthusiast passionate about hardware tinkering, custom OS modifications, and creative audio production.
 
-Here are some ideas to get you started:
+### 🛠️ What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Hackintoshing:** Specializing in OpenCore configurations for laptops (Toshiba, etc), focusing on Ventura+ support on legacy hardware
+* **Android Development:** Custom ROM testing and modifications to extend device longevity
+* **Music Production:** Creating music tracks when I'm not compiling code
+
+### 🔧 Technologies & Tools
+
+* **Bootloaders:** OpenCore
+* **Systems:** macOS, Android, Linux, Windows
+* **Music:** FL Studio
+
+---
+
+> *"Keeping legacy hardware alive, one config at a time"*
+
+**[View My Repositories](https://www.google.com/search?q=https://github.com/ConradZn%3Ftab%3Drepositories)**
