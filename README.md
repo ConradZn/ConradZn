@@ -12,7 +12,7 @@ I am a tech enthusiast passionate about hardware tinkering, custom OS modificati
 
 * **Bootloaders:** OpenCore
 * **Systems:** macOS, Android, Linux, Windows
-* **Music:** FL Studio
+* **Music:** Dead Division, FL Studio
 
 ---
 
